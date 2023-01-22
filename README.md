@@ -1,4 +1,4 @@
-![image](https://cdn.discordapp.com/attachments/734602322323439739/924354242360250408/InShot_20211225_123321486.jpg)
+[![image|690x193](upload://lkxO45cw2YfUrPBON6689mQuj6i.jpeg)]
 <div align="center">
   
  ## 🔴 [Documentation](https://devforum.roblox.com/t/introducing-mathaddons/1338754) || 🟢 [Model](https://www.roblox.com/library/7066695577/MathAddons)
