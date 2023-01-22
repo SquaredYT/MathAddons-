@@ -26,6 +26,7 @@ local complex = Math.Complex
 local i = complex.i
 local result = i^2
 print(result) -- -1
+print(Math.lambert_w0(i)) -- 0.37469902073711625+0.5764127230314329i
 ```
 
 **Want to check it out?**  grab the **[model here](https://www.roblox.com/library/7066695577/MathAddons)**!
