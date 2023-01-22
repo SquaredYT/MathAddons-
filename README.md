@@ -1,6 +1,7 @@
 ![image](https://user-images.githubusercontent.com/85357169/213919990-946a9970-7545-4176-a484-16b1f5ea6626.png)
 
 <div align="center">
+(Note this is the newest version, if you want version 1 of this module, it'll always be [here](https://github.com/SquaredYT/MathAddons)
   
  ## 🔴 [Documentation](https://devforum.roblox.com/t/introducing-mathaddons/1338754) || 🟢 [Model](https://www.roblox.com/library/7066695577/MathAddons)
   
