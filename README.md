@@ -13,12 +13,21 @@ Using any of the functions is as simple as:
 ```lua
 -- Within a LocalScript or ServerScript and assuming MathAddons is placed in ReplicatedStorage
 
-local Math = require(game.ReplicatedStorage.MathModule)
+local Math = require(game.ReplicatedStorage.MathAddons)
 local numbers = {1,2,3,4,5,6}
 local average = Math.avg(numbers)
 print(average) -- 3.5
 ```
 
-**Want to check it out?**  grab the **[model here](https://www.roblox.com/library/7066695577/MathAddons)**! or see what it's like in the **[playground](https://www.roblox.com/games/7062428240)**!
+but can get as complex as
+```lua
+local Math = require(game.ReplicatedStorage.MathAddons)
+local complex = Math.Complex
+local i = complex.i
+local result = i^2
+print(result) -- -1
+```
 
-Need more help? Check out the **[Documentation here](https://devforum.roblox.com/t/introducing-mathaddons/1338754)**
+**Want to check it out?**  grab the **[model here](https://www.roblox.com/library/7066695577/MathAddons)**!
+
+Need more help? Check out the **[Documentation here](https://devforum.roblox.com/t/introducing-mathaddons/1338754)** or contact me through devforum or discord (squared#7051)
