@@ -6,9 +6,8 @@
   
 </div>
   
-**MathAddons** is a simple yet useful module with math functions that should've been incorporated into lua(u) and math functions that are just helpful 
-
-MathAddons is an efficient module that returns functions as fast as regular math functions
+***MathAddons+** is a simple yet large module for all your mathematical needs*
+*With over 85 functions, such as calculating the mean, scientific notation, fraction conversion, complex number support, and much more!*
 
 Using any of the functions is as simple as:
 ```lua
