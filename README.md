@@ -31,4 +31,4 @@ print(Math.lambert_w0(i)) -- 0.37469902073711625+0.5764127230314329i
 
 **Want to check it out?**  grab the **[model here](https://www.roblox.com/library/7066695577/MathAddons)**!
 
-Need more help? Check out the **[Documentation here](https://devforum.roblox.com/t/introducing-mathaddons/1338754)** or contact me through devforum or discord (squared#7051)
+Need more help? Check out the **[documentation here](https://devforum.roblox.com/t/mathaddons-useful-functions-all-in-one-place/1836343)** or contact me through devforum or discord (squared#7051)
